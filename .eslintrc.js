@@ -1,3 +1,11 @@
+/*
+ * @Description: 
+ * @Version: 2.0
+ * @Autor: Seven
+ * @Date: 2022-02-10 14:29:02
+ * @LastEditors: Seven
+ * @LastEditTime: 2022-02-10 21:00:54
+ */
 module.exports = {
   root: true,
   env: {
@@ -5,7 +13,7 @@ module.exports = {
   },
   extends: [
     'plugin:vue/essential',
-    '@vue/standard'
+    // '@vue/standard'
   ],
   parserOptions: {
     parser: 'babel-eslint'
